@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nascript (it's nas)
 - 👀 I’m interested in Fullstack Web Developer
 - 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on Nadihealth
+- 💞️ I’m looking to collaborate on web dev
 - 📫 How to reach me nasutioncode@gmail.com
 
 <!---
