@@ -51,9 +51,8 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasutioncode&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=nascript&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-<br/>
 ### 🤝🏻 &nbsp;Connect with Me
-<br/><br/>
+<br/>
 <p align="left">
 <a href="https://www.nascodefy.com"><img src="https://img.shields.io/badge/-nascodefy.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="www.linkedin.com/in/nasutioncode"><img src="https://img.shields.io/badge/-Nasution-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
