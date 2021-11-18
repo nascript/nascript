@@ -3,8 +3,9 @@
 <br/>
 <div size='20px'>👋 Hi! My name is Nasution. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
-<br/>
-### :smile: &nbsp;About Me 
+
+### &nbsp;About Me :smile: 
+
 <p align="left">
 <img src="https://img.shields.io/badge/Age-22-blue" />
   <img src="https://img.shields.io/badge/Focus-Web %20%26%20Mobile Developer-purple" />
