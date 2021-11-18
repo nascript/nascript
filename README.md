@@ -7,21 +7,18 @@
 ### &nbsp;About Me :smile: 
 
 <p align="left">
-<img src="https://img.shields.io/badge/Age-22-blue" />
+<img src="https://img.shields.io/badge/Age-22-green" />
   <img src="https://img.shields.io/badge/Focus-Web %20%26%20Mobile Developer-purple" />
   <img src="https://img.shields.io/badge/Lives-Indonesia-red" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Indonesian-blue" />
 </p>
 
-<br/>
 - 👀 I’m interested in Fullstack Web Developer
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on Projects, Tech Articles
 - 📫 How to reach me nasutioncode@gmail.com
 <br/>
 
-
-<br/>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/nascript?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/nascript?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
