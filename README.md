@@ -39,7 +39,7 @@
 <a href= https://github.com/nascript?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
 
 <br/><br/>
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analyticss
 <br/>
 
 [![Nasution's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nascript&theme=tokyonight)](https://git.io/praveenscience)
