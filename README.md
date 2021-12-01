@@ -37,6 +37,10 @@
 <a href= https://github.com/nascript?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 <a href= https://github.com/nascript?tab=repositories&q=&type=&language=flutter&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>
 <a href= https://github.com/nascript?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
+<a href= https://github.com/nascript?tab=repositories&q=&type=&language=graphql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/graphql.svg'> </a>
+<a href= https://github.com/nascript?tab=repositories&q=&type=&language=react&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a>
+<a href= https://github.com/nascript?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
+
 
 <br/><br/>
 ### ⚙️ &nbsp;GitHub Analyticss
@@ -48,6 +52,7 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nascript&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=nascript&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
+
 ### 🤝🏻 &nbsp;Connect with Me
 <br/>
 <p align="left">
@@ -57,4 +62,3 @@
 <a href="https://instagram.com/ig.nasution"><img src="https://img.shields.io/badge/-@ig.nasution-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/fb.nas"><img src="https://img.shields.io/badge/-@nasution-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
-
