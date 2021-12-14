@@ -43,7 +43,7 @@
 
 
 <br/><br/>
-### ⚙️ &nbsp;GitHub Analyticss
+### ⚙️ &nbsp;GitHub Analytics
 <br/>
 
 [![Nasution's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nascript&theme=tokyonight)](https://git.io/praveenscience)
