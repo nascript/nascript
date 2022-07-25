@@ -46,7 +46,8 @@
 <a href= https://github.com/nascript?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bulma.svg'> </a>
 <a href= https://github.com/nascript?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
 <a href= https://github.com/nascript?tab=repositories&q=&type=&language=golang&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angular.svg'> </a>
+<a href= https://github.com/nascript?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg'> </a>
+<a href= https://github.com/nascript?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg'> </a>
 
 
 
