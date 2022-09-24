@@ -55,7 +55,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <br/>
 
-[![Nasution's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nascript&theme=tokyonight)](https://git.io/praveenscience)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nascript&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/nascript/github-readme-activity-graph)
 
 | ![Nasution's github stats](https://github-readme-stats.vercel.app/api?username=nascript&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nascript&theme=tokyonight) |
 | --- | --- |
