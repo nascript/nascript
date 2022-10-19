@@ -53,9 +53,9 @@
 
 <br/><br/>
 
-| ![Nasution's github stats](https://github-readme-stats.vercel.app/api?username=nascript&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nascript&theme=tokyonight) |
+| ![Nasution's github stats](https://github-readme-stats.vercel.app/api?username=nascript&show_icons=true&theme=onedark) | ![Nasution GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nascript&theme=onedark) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nascript&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=nascript&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nascript&theme=onedark) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=nascript&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=onedark) |
 
 
 ### 🤝🏻 &nbsp;Connect with Me
