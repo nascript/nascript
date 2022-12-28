@@ -14,7 +14,7 @@
 </p>
 
 - 👀 I’m interested in Fullstack Web Developer
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning MERN, GO, Python, Springboot
 - 💞️ I’m looking to collaborate on Projects, Tech Articles
 - 📫 How to reach me nasutioncode@gmail.com
 <br/>
@@ -54,10 +54,9 @@
 
 
 <br/><br/>
-
-| ![Nasution's github stats](https://github-readme-stats.vercel.app/api?username=nascript&show_icons=true&theme=onedark) | ![Nasution GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nascript&theme=onedark) |
+| ![Nasution's github stats](https://github-readme-stats.vercel.app/api?username=nascript&show_icons=true&theme=onedark&locale=en&count_private=true&custom_title=All%20Repo%20Stats) | ![Nasution GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nascript&locale=en&count_private=true&hide_rank=true&theme=onedark) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nascript&theme=onedark) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=nascript&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=onedark) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nascript&theme=onedark&count_private=true&hide_rank=false&card_width=500) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=nascript&show_icons=true&locale=en&count_private=false&hide_rank=false&custom_title=Public%20Repo%20Stats&disable_animations=false&theme=onedark) |
 
 
 ### 🤝🏻 &nbsp;Connect with Me
