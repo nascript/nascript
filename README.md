@@ -54,9 +54,12 @@
 
 
 <br/><br/>
-| ![Nasution's github stats](https://github-readme-stats.vercel.app/api?username=nascript&show_icons=true&theme=onedark&locale=en&count_private=true&custom_title=All%20Repo%20Stats) | ![Nasution GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nascript&locale=en&count_private=true&hide_rank=true&theme=onedark) |
+| ![Nasution's github stats](https://github-readme-stats.vercel.app/api?username=nascript&show_icons=true&theme=onedark&locale=en&count_private=true) | ![Nasution GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nascript&locale=en&count_private=true&hide_rank=true&theme=onedark) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nascript&theme=onedark&count_private=true&hide_rank=false&card_width=500) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=nascript&show_icons=true&locale=en&count_private=false&hide_rank=false&custom_title=Public%20Repo%20Stats&disable_animations=false&theme=onedark) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nascript&hide=css,scss,html&theme=onedark&count_private=true&hide_rank=false&card_width=500) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=nascript&show_icons=true&locale=en&count_private=false&hide_rank=false&theme=onedark) |
+
+
+
 
 
 ### 🤝🏻 &nbsp;Connect with Me
