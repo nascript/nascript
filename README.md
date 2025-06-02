@@ -1,75 +1,95 @@
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=nascript)
-[![Github](https://img.shields.io/github/followers/nascript?label=Follow&style=social)](https://github.com/nascript)
-<br/>
-<div size='20px'>👋 Hi! My name is Nasution. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+[![Github Followers](https://img.shields.io/github/followers/nascript?label=Follow&style=social)](https://github.com/nascript)
 
-### &nbsp;About Me :smile: 
+<h1 align="center">Hi 👋, I'm Nasution (nas)</h1>
+<p align="center">Fullstack Web, Mobile, and API Developer from Indonesia 🇮🇩</p>
+
+---
+
+### 📌 About Me
 
 <p align="left">
-<img src="https://img.shields.io/badge/Age-22-green" />
-  <img src="https://img.shields.io/badge/Focus-Web %20%26%20API %20%26%20Mobile Developer-purple" />
+  <img src="https://img.shields.io/badge/Age-22-green" />
+  <img src="https://img.shields.io/badge/Focus-Web%20%7C%20API%20%7C%20Mobile-purple" />
   <img src="https://img.shields.io/badge/Lives-Indonesia-red" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Indonesian-blue" />
+  <img src="https://img.shields.io/badge/Languages-English%20%7C%20Indonesian-blue" />
 </p>
 
-- 👀 I’m interested in Fullstack Web Developer
-- 🌱 I’m currently learning MERN, GO, Python, Springboot
-- 💞️ I’m looking to collaborate on Projects, Tech Articles
-- 📫 How to reach me nasutioncode@gmail.com
-<br/>
+- 👀 Interested in Fullstack Development  
+- 🔭 Currently learning: MERN, Go, Python, Spring Boot  
+- 💡 Open for collaboration on projects and tech articles  
+- 📫 Reach me at: **nasutioncode@gmail.com**
 
-<h2> Experiences </h2>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/codeigniter.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=vue&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=dart&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=flutter&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=graphql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/graphql.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=react&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bulma.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=golang&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'> </a>
-<a href= https://github.com/nascript?tab=repositories&q=&type=&language=jupyter-notebook&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg'> </a>
+---
+
+### 💼 Highlight Projects
+
+- 🟢 **[GreenSkills Talent Platform (WAPP)](https://wapp-greenskills-talent-spa-sea-001-stage.azurewebsites.net/community)**  
+  A **community engagement platform** promoting green skills across Southeast Asia. Features include multi-role access, mentorship support, and organization-community interactions.
+
+  - 📘 **[Learning Space](https://wapp-greenskills-talent-spa-sea-001-stage.azurewebsites.net/learning-space)**  
+    Centralized hub for curated sustainability learning materials, training modules, and certification paths.
+
+  - 💼 **[Career Hub – Job Fairs](https://wapp-greenskills-talent-spa-sea-001-stage.azurewebsites.net/career-hub/job-fairs)**  
+    Interactive job fair portal connecting green talent with sustainable organizations. Includes real-time sessions, event schedules, and role-based navigation for companies and applicants.
+- 🏥 **E-Health Platform** — Fullstack real-time consultation system with chat/video call, doctor/patient/hospital modules, multi-tenant appointment management.
+- 💼 **Job Portal & Recruiter App** — Scalable recruitment platform with smart filtering and high-performance delivery system.
+- 📚 [**LMS Platform**](https://wapp-greenskills-recruiter-spa-prod-sea--staging.azurewebsites.net/) — Learning Management System with modular architecture and role-based features.
+- 🎭 [**RehearseMaster**](http://rehearsemaster.com) — A web-based platform that helps performing artists and educators manage and simulate rehearsals efficiently.
+- 🌱 [**GreenSkills Community Platform**](https://wapp-greenskills-talent-spa-sea-001-stage.azurewebsites.net/community) — Community portal built for collaboration, sharing resources, and engaging in sustainability-focused skill development across Southeast Asia.
 
 
+---
 
-<br/><br/>
-| ![Nasution's github stats](https://github-readme-stats.vercel.app/api?username=nascript&show_icons=true&theme=onedark&locale=en&count_private=true) | ![Nasution GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nascript&locale=en&count_private=true&hide_rank=true&theme=onedark) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nascript&hide=css,scss,html&theme=onedark&count_private=true&hide_rank=false&card_width=500) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=nascript&show_icons=true&locale=en&count_private=false&hide_rank=false&theme=onedark) |
+### 🧠 Tech Stack & Tools
 
-
-
-
-
-### 🤝🏻 &nbsp;Connect with Me
-<br/>
 <p align="left">
-<a href="https://www.nascodefy.com"><img src="https://img.shields.io/badge/-nascodefy.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="www.linkedin.com/in/nasutioncode"><img src="https://img.shields.io/badge/-Nasution-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:nasutioncode@gmail.com"><img src="https://img.shields.io/badge/-nasutioncode@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/ig.nasution"><img src="https://img.shields.io/badge/-@ig.nasution-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/fb.nas"><img src="https://img.shields.io/badge/-@nasution-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="32px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="32px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="32px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="32px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="32px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="32px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="32px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="32px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="32px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="32px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="32px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="32px"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=nascript&show_icons=true&theme=onedark&count_private=true" alt="nascript's GitHub stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nascript&theme=onedark&count_private=true" alt="nascript's streak stats" /> |
+|---|---|
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascript&layout=compact&theme=onedark&hide=css,scss,html" alt="Top languages" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=nascript&show_icons=true&locale=en&count_private=false&hide_rank=false&theme=onedark" alt="Github Stars" /> |
+
+---
+
+### 🎯 Personal Highlights
+
+- 🧠 **I enjoy building structured systems** — from clean architecture repositories to component libraries, and reusable hook-based logic.
+- 🎙️ **Speaker & Mentor** — I occasionally give tech talks and help junior developers understand real-world architecture patterns.
+- 📈 **Startup-minded** — I love working with small, ambitious teams that build fast and iterate even faster.
+- 🛠️ **Maker Spirit** — Outside work, I enjoy prototyping random tools, productivity hacks, and visual experiments with code.
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="mailto:nasutioncode@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nasutioncode"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/ig.nasution"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://facebook.com/fb.nas"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+  <a href="https://www.nascodefy.com"><img src="https://img.shields.io/badge/-nascodefy.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 </p>
